@@ -1,1 +1,1 @@
-# Image-Captioning-App-using-Gradio
+# Image-Captioning-App
