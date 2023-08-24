@@ -31,7 +31,7 @@ class LinearRegressionModel(Model):
             X_train (pandas df): Training data
             y_train (pandas series): Training labels
         Returns:
-            None
+            model: LinearRegressionModel
         """
         
         try:
