@@ -5,7 +5,7 @@ import pandas as pd
 from src.data_cleaning import (
     DataCleaning,
     DataDivideStrategy,
-    DataPreProcessStrategy
+    DataPreProcessStrategy,
 )
 from typing_extensions import Annotated
 
