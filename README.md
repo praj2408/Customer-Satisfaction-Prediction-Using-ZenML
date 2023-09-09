@@ -1,5 +1,6 @@
-# Predicting Customer Satisfaction About A Product
+# Predicting Customer Satisfaction About a Product
 ## Problem statement
+
 ## Dataset
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
