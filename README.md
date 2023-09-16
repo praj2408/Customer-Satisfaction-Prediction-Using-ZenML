@@ -1,6 +1,6 @@
 # Predicting Customer Satisfaction About a Product
 ## Problem statement
-
+Develop a predictive model to assess and forecast customer satisfaction regarding a specific product or service, utilizing historical data and relevant customer feedback to identify key factors influencing satisfaction levels. The goal is to create a reliable system that can proactively anticipate customer sentiment, enabling businesses to make informed decisions and improvements to enhance overall customer satisfaction.
 ## Dataset
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
